@@ -58,3 +58,14 @@ If you encounter issues not covered here:
    - Python version
    - Complete error message
    - Steps to reproduce
+
+### Getting Help
+
+If you encounter issues not covered here:
+1. Check the `--help` output
+2. Verify Python version (3.6+ required)
+3. Open an issue on GitHub with:
+   - Your operating system
+   - Python version
+   - Complete error message
+   - Steps to reproduce
